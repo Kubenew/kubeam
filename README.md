@@ -12,3 +12,4 @@ cd kubeam
 $ chmod 755 kubeam.sh
 
 $ ./kubeam.sh
+![kubeam](https://user-images.githubusercontent.com/90440279/152650776-f532d8a3-bb9d-46b2-8951-a8381198d911.png)
